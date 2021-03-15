@@ -1,2 +1,0 @@
-fruit = list()
-fruit
