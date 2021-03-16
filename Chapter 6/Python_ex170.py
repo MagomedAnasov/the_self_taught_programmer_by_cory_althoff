@@ -1,0 +1,1 @@
+print('I was able to do that. It was difficult'.split('.'))

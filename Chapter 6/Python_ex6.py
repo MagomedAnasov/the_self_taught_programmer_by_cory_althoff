@@ -1,0 +1,1 @@
+print('Child is doing interestion things'.replace('i','@'))

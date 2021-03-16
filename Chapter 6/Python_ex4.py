@@ -1,0 +1,1 @@
+print('Where it is? Who it is? When it is'.split('?'))
